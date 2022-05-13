@@ -1,6 +1,6 @@
-# Dcapp Documentation
+# Laerx Documentation
 
-You can find the online version of the Dcapp documentation at [https://devdocs.codenteq.com](https://devdocs.codenteq.com).
+You can find the online version of the Laerx documentation at [https://devdocs.codenteq.com](https://devdocs.codenteq.com).
 
 ## Contribution guide
 
